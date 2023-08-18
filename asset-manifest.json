@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/marvel-app/static/css/main.3c679471.css",
-    "main.js": "/marvel-app/static/js/main.76b56202.js",
+    "main.js": "/marvel-app/static/js/main.f166c82c.js",
     "static/js/20.3a65706b.chunk.js": "/marvel-app/static/js/20.3a65706b.chunk.js",
     "static/css/812.16cc1166.chunk.css": "/marvel-app/static/css/812.16cc1166.chunk.css",
     "static/js/812.a16870c0.chunk.js": "/marvel-app/static/js/812.a16870c0.chunk.js",
@@ -23,7 +23,7 @@
     "static/media/Avengers_logo.png": "/marvel-app/static/media/Avengers_logo.9eaf219344d83362e830.png",
     "index.html": "/marvel-app/index.html",
     "main.3c679471.css.map": "/marvel-app/static/css/main.3c679471.css.map",
-    "main.76b56202.js.map": "/marvel-app/static/js/main.76b56202.js.map",
+    "main.f166c82c.js.map": "/marvel-app/static/js/main.f166c82c.js.map",
     "20.3a65706b.chunk.js.map": "/marvel-app/static/js/20.3a65706b.chunk.js.map",
     "812.16cc1166.chunk.css.map": "/marvel-app/static/css/812.16cc1166.chunk.css.map",
     "812.a16870c0.chunk.js.map": "/marvel-app/static/js/812.a16870c0.chunk.js.map",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.3c679471.css",
-    "static/js/main.76b56202.js"
+    "static/js/main.f166c82c.js"
   ]
 }
